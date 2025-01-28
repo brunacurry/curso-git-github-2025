@@ -1,0 +1,4 @@
+comandos secundaria git
+comando 1 
+comando 2
+
