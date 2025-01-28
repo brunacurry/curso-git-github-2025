@@ -2,3 +2,8 @@ comandos secundaria git
 comando 1 
 comando 2
 
+genericos
+estranhos
+
+
+dois mais
