@@ -9,3 +9,6 @@ http://youtube.com/@tellmewhy
 
 pessoas particiopantes:
 teo
+
+allem do youtube se ligue no nosso site e agenda para ficar por dentro de tudo que vai rolar em 2025
+[telmewhy.org] (htttps://teomewhy.org/schedule)
