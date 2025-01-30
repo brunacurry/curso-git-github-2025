@@ -4,5 +4,8 @@ um curso para iniciantes prenderam  trabalhar om versionamento de codigo e repos
 
 alem disso vamos trabalhar com gitflow e visual studio code
 
+Curso git 2025 link
+http://youtube.com/@tellmewhy
+
 pessoas particiopantes:
 teo
